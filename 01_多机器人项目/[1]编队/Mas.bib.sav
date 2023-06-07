@@ -1,0 +1,846 @@
+﻿
+@Article{Wang2018,
+  author                     = {Wang, Yujuan and Song, Yongduan},
+  journal                    = {AUTOMATICA},
+  title                      = {Leader-following control of high-order multi-agent systems under directed graphs: Pre-specified finite time approach},
+  year                       = {2018},
+  issn                       = {0005-1098},
+  month                      = {JAN},
+  pages                      = {113-120},
+  volume                     = {87},
+  abstract                   = {In this work we address the full state finite-time distributed consensus
+   control problem for high-order multi-agent systems (MAS) under directed
+   communication topology. Existing protocols for finite time consensus of
+   MAS are normally based on the signum function or fractional power state
+   feedback, and the finite convergence time is contingent upon the initial
+   conditions and other design parameters. In this paper, by using regular
+   local state feedback only, we present a distributed and smooth finite
+   time control scheme to achieve leader follower consensus under the
+   communication topology containing a directed spanning tree. The proposed
+   control consists of a finite time observer and a finite time
+   compensator. The salient feature of the proposed method is that both the
+   finite time intervals for observing leader states and for reaching
+   consensus are independent of initial conditions and any other design
+   parameters, thus can be explicitly pre-specified, Leader-following
+   problem of MAS with both single and multiple leaders are studied. (C)
+   2017 Elsevier Ltd. All rights reserved.},
+  address                    = {THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND},
+  affiliation                = {Wang, YJ (Corresponding Author), Chongqing Univ, Minist Educ, Key Lab Dependable Serv Comp Cyber Phys Soc, Chongqing 400044, Peoples R China. Wang, YJ (Corresponding Author), Chongqing Univ, Sch Automat, Chongqing 400044, Peoples R China. Wang, YJ (Corresponding Author), Univ Hong Kong, Dept Elect \& Elect Engn, Pokfulam, Hong Kong, Peoples R China. Wang, Yujuan; Song, Yongduan, Chongqing Univ, Minist Educ, Key Lab Dependable Serv Comp Cyber Phys Soc, Chongqing 400044, Peoples R China. Wang, Yujuan; Song, Yongduan, Chongqing Univ, Sch Automat, Chongqing 400044, Peoples R China. Wang, Yujuan, Univ Hong Kong, Dept Elect \& Elect Engn, Pokfulam, Hong Kong, Peoples R China.},
+  affiliations               = {Chongqing University; Chongqing University; University of Hong Kong},
+  author-email               = {iamwyj123456789@163.com ydsong@cqu.edu.cn},
+  da                         = {2023-04-12},
+  doc-delivery-number        = {FT2UV},
+  doi                        = {10.1016/j.automatica.2017.09.017},
+  eissn                      = {1873-2836},
+  file                       = {:E\:/硕士/论文资料/01_多机器人项目/编队/Leader-following control of high-order multi-agent systems under directed graphs Pre-specified finite time approach.pdf:PDF},
+  funding-acknowledgement    = {National Natural Science Foundation of China {[}61773081]},
+  funding-text               = {This work was supported by the National Natural Science Foundation of China (No. 61773081). The material in this paper was not presented at any conference. This paper was recommended for publication in revised form by Associate Editor Dimos V, Dimarogonas under the direction of Editor Christos G. Cassandras.},
+  journal-iso                = {Automatica},
+  keywords                   = {Multi-agent systems; High-order dynamics; Leader follower consensus; Finite time; Directed topology},
+  keywords-plus              = {CONTAINMENT CONTROL; NONLINEAR-SYSTEMS; CONSENSUS; STABILITY; NETWORKS; FEEDBACK},
+  language                   = {English},
+  number-of-cited-references = {25},
+  publisher                  = {PERGAMON-ELSEVIER SCIENCE LTD},
+  research-areas             = {Automation \& Control Systems; Engineering},
+  researcherid-numbers       = {Song, Yongduan/AAI-7645-2021},
+  times-cited                = {116},
+  type                       = {Article},
+  unique-id                  = {WOS:000423002400013},
+  usage-count-last-180-days  = {20},
+  usage-count-since-2013     = {183},
+  web-of-science-categories  = {Automation \& Control Systems; Engineering, Electrical \& Electronic},
+  web-of-science-index       = {Science Citation Index Expanded (SCI-EXPANDED)},
+}
+
+﻿
+@Article{POMET1992,
+  author               = {POMET, JB and PRALY, L},
+  journal              = {IEEE TRANSACTIONS ON AUTOMATIC CONTROL},
+  title                = {ADAPTIVE NONLINEAR REGULATION - ESTIMATION FROM THE LYAPUNOV EQUATION},
+  year                 = {1992},
+  issn                 = {0018-9286},
+  month                = {JUN},
+  number               = {6},
+  pages                = {729-740},
+  volume               = {37},
+  doi                  = {10.1109/9.256328},
+  file                 = {:E\:/硕士/论文资料/01_多机器人项目/编队/Adaptive_nonlinear_regulation_estimation_from_the_Lyapunov_equation.pdf:PDF},
+  orcid-numbers        = {Pomet, Jean-Baptiste/0000-0002-9875-9845},
+  researcherid-numbers = {Pomet, Jean-Baptiste/D-5073-2009},
+  unique-id            = {WOS:A1992HW45900004},
+}
+
+﻿
+@Article{Amirkhani2022,
+  author               = {Amirkhani, Abdollah and Barshooi, Amir Hossein},
+  journal              = {ARTIFICIAL INTELLIGENCE REVIEW},
+  title                = {Consensus in multi-agent systems: a review},
+  year                 = {2022},
+  issn                 = {0269-2821},
+  month                = {JUN},
+  number               = {5},
+  pages                = {3897-3935},
+  volume               = {55},
+  doi                  = {10.1007/s10462-021-10097-x},
+  earlyaccessdate      = {NOV 2021},
+  eissn                = {1573-7462},
+  orcid-numbers        = {Amirkhani, Abdollah/0000-0001-6891-4528 Barshooi, Amir Hossein/0000-0002-5081-1640},
+  researcherid-numbers = {Amirkhani, Abdollah/C-6743-2019},
+  unique-id            = {WOS:000719167400001},
+}
+
+﻿
+@Article{Oh2015,
+  author               = {Oh, Kwang-Kyo and Park, Myoung-Chul and Ahn, Hyo-Sung},
+  journal              = {AUTOMATICA},
+  title                = {A survey of multi-agent formation control},
+  year                 = {2015},
+  issn                 = {0005-1098},
+  month                = {MAR},
+  pages                = {424-440},
+  volume               = {53},
+  doi                  = {10.1016/j.automatica.2014.10.022},
+  eissn                = {1873-2836},
+  file                 = {:E\:/硕士/论文资料/01_多机器人项目/[1]编队/﻿A survey of multi-agent formation control.pdf:PDF},
+  orcid-numbers        = {Park, Myoung-Chul/0000-0002-9725-2719 Ahn, Hyo-Sung/0000-0002-7939-0093},
+  researcherid-numbers = {Ahn, Hyo-Sung/G-9060-2015},
+  unique-id            = {WOS:000351961900054},
+}
+
+@Book{Godsil2001,
+  author    = {Godsil, Chris and Royle, Gordon F},
+  publisher = {Springer Science \& Business Media},
+  title     = {Algebraic graph theory},
+  year      = {2001},
+  volume    = {207},
+}
+
+﻿
+@Article{Zuo2018,
+  author               = {Zuo, Zongyu and Tian, Bailing and Defoort, Michael and Ding, Zhengtao},
+  journal              = {IEEE TRANSACTIONS ON AUTOMATIC CONTROL},
+  title                = {Fixed-Time Consensus Tracking for Multiagent Systems With High-Order Integrator Dynamics},
+  year                 = {2018},
+  issn                 = {0018-9286},
+  month                = {FEB},
+  number               = {2},
+  pages                = {563-570},
+  volume               = {63},
+  doi                  = {10.1109/TAC.2017.2729502},
+  eissn                = {1558-2523},
+  orcid-numbers        = {Ding, Zhengtao/0000-0003-0690-7853 Zuo, Zongyu/0000-0003-3444-9538},
+  researcherid-numbers = {Zuo, Zongyu/B-4329-2013},
+  unique-id            = {WOS:000423553000023},
+}
+
+﻿
+@InProceedings{Yuyang2016,
+  author       = {Lin Yuyang and Li Zhongshen},
+  booktitle    = {PROCEEDINGS OF THE 35TH CHINESE CONTROL CONFERENCE 2016},
+  title        = {Group Consensus of Multi-agent System with Double-integrator Dynamics under Directed Topology},
+  year         = {2016},
+  editor       = {Chen, J and Zhao, Q},
+  note         = {35th Chinese Control Conference (CCC), Chengdu, PEOPLES R CHINA, JUL 27-29, 2016},
+  organization = {Chinese Assoc Automat, Tech Comm Control Theory; Syst Engn Soc China; SW Jiaotong Univ; Chinese Acad Sci, Acad Math \& Syst Sci; China Soc Indu \& Appl Math; Univ Elect Sci \& Technol China; Sichuan Univ; Asian Control Assocn; IEEE Control Syst Soc; Inst Control Robot \& Syst; SocInstrument \& Control Engineers; Sichuan Soc Automat \& Instrument},
+  pages        = {1181-1186},
+  series       = {Chinese Control Conference},
+  isbn         = {978-9-8815-6391-0},
+  issn         = {2161-2927},
+  unique-id    = {WOS:000388809501075},
+}
+
+@Article{Partridge1984,
+  author  = {Partridge, BL},
+  journal = {Nature},
+  title   = {The chorus-line hypothesis of maneuver in avian flocks},
+  year    = {1984},
+  number  = {6},
+  pages   = {344--345},
+  volume  = {309},
+}
+
+@Book{West2001,
+  author    = {West, Douglas Brent and others},
+  publisher = {Prentice hall Upper Saddle River},
+  title     = {Introduction to graph theory},
+  year      = {2001},
+  volume    = {2},
+}
+
+@Book{Bollobas1998,
+  author    = {Bollob{\'a}s, B{\'e}la},
+  publisher = {Springer Science \& Business Media},
+  title     = {Modern graph theory},
+  year      = {1998},
+  volume    = {184},
+}
+
+@Book{Bondy1976,
+  author    = {Bondy, John Adrian and Murty, Uppaluri Siva Ramachandra and others},
+  publisher = {Macmillan London},
+  title     = {Graph theory with applications},
+  year      = {1976},
+  volume    = {290},
+}
+
+@Article{AndersonJr1985,
+  author    = {Anderson Jr, William N and Morley, Thomas D},
+  journal   = {Linear and multilinear algebra},
+  title     = {Eigenvalues of the Laplacian of a graph},
+  year      = {1985},
+  number    = {2},
+  pages     = {141--145},
+  volume    = {18},
+  publisher = {Taylor \& Francis},
+}
+
+@Article{Hu2012,
+  author    = {Hu, Guoqiang},
+  journal   = {Systems \& Control Letters},
+  title     = {Robust consensus tracking of a class of second-order multi-agent dynamic systems},
+  year      = {2012},
+  number    = {1},
+  pages     = {134--142},
+  volume    = {61},
+  publisher = {Elsevier},
+}
+
+@Article{Campion1996,
+  author    = {Campion, Guy and Bastin, Georges and Dandrea-Novel, Brigitte},
+  journal   = {IEEE transactions on robotics and automation},
+  title     = {Structural properties and classification of kinematic and dynamic models of wheeled mobile robots},
+  year      = {1996},
+  number    = {1},
+  pages     = {47--62},
+  volume    = {12},
+  publisher = {IEEE},
+}
+
+@Article{Adibzadeh2020,
+  author    = {Adibzadeh, Amir and Suratgar, Amir A and Menhaj, Mohammad B and Zamani, Mohsen},
+  journal   = {International Journal of Control},
+  title     = {Constrained optimal consensus in multi-agent systems with single-and double-integrator dynamics},
+  year      = {2020},
+  number    = {3},
+  pages     = {575--587},
+  volume    = {93},
+  publisher = {Taylor \& Francis},
+}
+
+@InProceedings{Euston2008,
+  author       = {Euston, Mark and Coote, Paul and Mahony, Robert and Kim, Jonghyuk and Hamel, Tarek},
+  booktitle    = {2008 IEEE/RSJ international conference on intelligent robots and systems},
+  title        = {A complementary filter for attitude estimation of a fixed-wing UAV},
+  year         = {2008},
+  organization = {IEEE},
+  pages        = {340--345},
+}
+
+@Article{Dong2016,
+  author    = {Dong, Xiwang and Zhou, Yan and Ren, Zhang and Zhong, Yisheng},
+  journal   = {Control Engineering Practice},
+  title     = {Time-varying formation control for unmanned aerial vehicles with switching interaction topologies},
+  year      = {2016},
+  pages     = {26--36},
+  volume    = {46},
+  publisher = {Elsevier},
+}
+
+@Book{Ren2008,
+  author    = {Ren, Wei and Beard, Randal W},
+  publisher = {Springer},
+  title     = {Distributed consensus in multi-vehicle cooperative control},
+  year      = {2008},
+  number    = {2},
+  volume    = {27},
+}
+
+@Book{DeQueiroz2019,
+  author    = {De Queiroz, Marcio and Cai, Xiaoyu and Feemster, Matthew},
+  publisher = {John Wiley \& Sons},
+  title     = {Formation control of multi-agent systems: a graph rigidity approach},
+  year      = {2019},
+}
+
+@Article{FerrariTrecate2009,
+  author    = {Ferrari-Trecate, Giancarlo and Galbusera, Luca and Marciandi, Marco Pietro Enrico and Scattolini, Riccardo},
+  journal   = {IEEE Transactions on Automatic Control},
+  title     = {Model predictive control schemes for consensus in multi-agent systems with single-and double-integrator dynamics},
+  year      = {2009},
+  number    = {11},
+  pages     = {2560--2572},
+  volume    = {54},
+  publisher = {IEEE},
+}
+
+@InProceedings{Ren2006,
+  author       = {Ren, Wei and Moore, Kevin and Chen, YangQuan},
+  booktitle    = {2006 IEEE International Conference on Networking, Sensing and Control},
+  title        = {High-order consensus algorithms in cooperative vehicle systems},
+  year         = {2006},
+  organization = {IEEE},
+  pages        = {457--462},
+}
+
+@Article{He2011,
+  author    = {He, W and Cao, J},
+  journal   = {IET control theory \& applications},
+  title     = {Consensus control for high-order multi-agent systems},
+  year      = {2011},
+  number    = {1},
+  pages     = {231--238},
+  volume    = {5},
+  publisher = {IET},
+}
+
+@Article{Zuo2017,
+  author    = {Zuo, Zongyu and Tian, Bailing and Defoort, Michael and Ding, Zhengtao},
+  journal   = {IEEE Transactions on Automatic Control},
+  title     = {Fixed-time consensus tracking for multiagent systems with high-order integrator dynamics},
+  year      = {2017},
+  number    = {2},
+  pages     = {563--570},
+  volume    = {63},
+  publisher = {IEEE},
+}
+
+@Article{Haimo1986,
+  author    = {Haimo, Varda Tepper},
+  journal   = {SIAM Journal on Control and Optimization},
+  title     = {Finite time controllers},
+  year      = {1986},
+  number    = {4},
+  pages     = {760--770},
+  volume    = {24},
+  publisher = {SIAM},
+}
+
+@Article{Weiss1965,
+  author    = {Weiss, Leonard and Infante, EF},
+  journal   = {Proceedings of the National Academy of Sciences},
+  title     = {On the stability of systems defined over a finite time interval},
+  year      = {1965},
+  number    = {1},
+  pages     = {44--48},
+  volume    = {54},
+  publisher = {National Acad Sciences},
+}
+
+@Article{Weiss1967,
+  author    = {Weiss, Leonard and Infante, E},
+  journal   = {IEEE Transactions on Automatic Control},
+  title     = {Finite time stability under perturbing forces and on product spaces},
+  year      = {1967},
+  number    = {1},
+  pages     = {54--59},
+  volume    = {12},
+  publisher = {IEEE},
+}
+
+@Article{Cortes2006,
+  author    = {Cort{\'e}s, Jorge},
+  journal   = {Automatica},
+  title     = {Finite-time convergent gradient flows with applications to network consensus},
+  year      = {2006},
+  number    = {11},
+  pages     = {1993--2000},
+  volume    = {42},
+  publisher = {Elsevier},
+}
+
+@Article{Chen2011,
+  author    = {Chen, Gang and Lewis, Frank L and Xie, Lihua},
+  journal   = {Automatica},
+  title     = {Finite-time distributed consensus via binary control protocols},
+  year      = {2011},
+  number    = {9},
+  pages     = {1962--1968},
+  volume    = {47},
+  publisher = {Elsevier},
+}
+
+@Article{Li2014,
+  author    = {Li, Chaoyong and Qu, Zhihua},
+  journal   = {Automatica},
+  title     = {Distributed finite-time consensus of nonlinear systems under switching topologies},
+  year      = {2014},
+  number    = {6},
+  pages     = {1626--1631},
+  volume    = {50},
+  publisher = {Elsevier},
+}
+
+@Article{Zhang2013,
+  author    = {Zhang, Yanjiao and Yang, Ying and Zhao, Yu and Wen, Guanghui},
+  journal   = {International Journal of Control},
+  title     = {Distributed finite-time tracking control for nonlinear multi-agent systems subject to external disturbances},
+  year      = {2013},
+  number    = {1},
+  pages     = {29--40},
+  volume    = {86},
+  publisher = {Taylor \& Francis},
+}
+
+@Article{Franceschelli2013,
+  author    = {Franceschelli, Mauro and Giua, Alessandro and Pisano, Alessandro and Usai, Elio},
+  journal   = {Nonlinear Analysis: Hybrid Systems},
+  title     = {Finite-time consensus for switching network topologies with disturbances},
+  year      = {2013},
+  pages     = {83--93},
+  volume    = {10},
+  publisher = {Elsevier},
+}
+
+@Article{Zuo2014,
+  author    = {Zuo, Zongyu and Tie, Lin},
+  journal   = {International Journal of Control},
+  title     = {A new class of finite-time nonlinear consensus protocols for multi-agent systems},
+  year      = {2014},
+  number    = {2},
+  pages     = {363--370},
+  volume    = {87},
+  publisher = {Taylor \& Francis},
+}
+
+@Article{Zuo2016,
+  author    = {Zuo, Zongyu and Tie, Lin},
+  journal   = {International Journal of Systems Science},
+  title     = {Distributed robust finite-time nonlinear consensus protocols for multi-agent systems},
+  year      = {2016},
+  number    = {6},
+  pages     = {1366--1375},
+  volume    = {47},
+  publisher = {Taylor \& Francis},
+}
+
+@InProceedings{Wen2011,
+  author    = {Wen, Guoguang and Rahmani, Ahmed and Yu, Yongguang},
+  booktitle = {Proceedings of the World Congress on Engineering and Computer Science},
+  title     = {Consensus tracking for multi-agent systems with nonlinear dynamics under fixed communication topologies},
+  year      = {2011},
+  pages     = {19--21},
+  volume    = {1},
+}
+
+@Article{Meng2014,
+  author    = {Meng, Ziyang and Lin, Zongli},
+  journal   = {International Journal of Robust and Nonlinear Control},
+  title     = {On distributed finite-time observer design and finite-time coordinated tracking of multiple double integrator systems via local interactions},
+  year      = {2014},
+  number    = {16},
+  pages     = {2473--2489},
+  volume    = {24},
+  publisher = {Wiley Online Library},
+}
+
+@InProceedings{Fu2014,
+  author       = {Fu, Junjie and Wang, Jinzhi},
+  booktitle    = {11th IEEE international conference on control \& automation (ICCA)},
+  title        = {Observer-based finite-time coordinated tracking for high-order integrator systems with matched uncertainties under directed communication graphs},
+  year         = {2014},
+  organization = {IEEE},
+  pages        = {880--885},
+}
+
+@InProceedings{Emel’yanov1962,
+  author    = {Emel’yanov, SV and Taran, VA},
+  booktitle = {Proc. of USSR Academy of Sciences, Energy and Automation},
+  title     = {On a class of variable structure control systems},
+  year      = {1962},
+  pages     = {94},
+  volume    = {3},
+}
+
+@Article{Yu1996,
+  author    = {Yu, Xinghuo and Man, Zhihong},
+  journal   = {International Journal of Control},
+  title     = {Model reference adaptive control systems with terminal sliding modes},
+  year      = {1996},
+  number    = {6},
+  pages     = {1165--1176},
+  volume    = {64},
+  publisher = {Taylor \& Francis},
+}
+
+@Article{Xu2013,
+  author    = {Xu, Xiang and Wang, Jinzhi},
+  journal   = {Asian Journal of Control},
+  title     = {Finite-time consensus tracking for second-order multiagent systems},
+  year      = {2013},
+  number    = {4},
+  pages     = {1246--1250},
+  volume    = {15},
+  publisher = {Wiley Online Library},
+}
+
+@InProceedings{Khoo2009,
+  author       = {Khoo, S and Xie, L and Man, Z-hong},
+  booktitle    = {2009 IEEE/ASME International Conference on Advanced Intelligent Mechatronics},
+  title        = {Integral terminal sliding mode cooperative control of multi-robot networks},
+  year         = {2009},
+  organization = {IEEE},
+  pages        = {969--973},
+}
+
+@Article{Khoo2009a,
+  author    = {Khoo, Suiyang and Xie, Lihua and Man, Zhihong},
+  journal   = {IEEE/ASME transactions on mechatronics},
+  title     = {Robust finite-time consensus tracking algorithm for multirobot systems},
+  year      = {2009},
+  number    = {2},
+  pages     = {219--228},
+  volume    = {14},
+  publisher = {IEEE},
+}
+
+@Article{Zou2012,
+  author    = {Zou, An-Min and Kumar, Krishna Dev},
+  journal   = {IEEE Transactions on Aerospace and Electronic Systems},
+  title     = {Distributed attitude coordination control for spacecraft formation flying},
+  year      = {2012},
+  number    = {2},
+  pages     = {1329--1346},
+  volume    = {48},
+  publisher = {IEEE},
+}
+
+@Article{Chen2013,
+  author    = {Chen, Gang and Yue, Yuanlong and Song, Yongduan},
+  journal   = {IET Control Theory \& Applications},
+  title     = {Finite-time cooperative-tracking control for networked Euler--Lagrange systems},
+  year      = {2013},
+  number    = {11},
+  pages     = {1487--1497},
+  volume    = {7},
+  publisher = {Wiley Online Library},
+}
+
+@Article{Ghasemi2014,
+  author    = {Ghasemi, Masood and Nersesov, Sergey G},
+  journal   = {Automatica},
+  title     = {Finite-time coordination in multiagent systems using sliding mode control approach},
+  year      = {2014},
+  number    = {4},
+  pages     = {1209--1216},
+  volume    = {50},
+  publisher = {Elsevier},
+}
+
+@Article{He2015,
+  author    = {He, Xiaoyan and Wang, Qingyun and Yu, Wenwu},
+  journal   = {Applied Mathematics and Computation},
+  title     = {Finite-time distributed cooperative attitude tracking control for multiple rigid spacecraft},
+  year      = {2015},
+  pages     = {724--734},
+  volume    = {256},
+  publisher = {Elsevier},
+}
+
+@Article{Cao2010,
+  author    = {Cao, Yongcan and Ren, Wei and Meng, Ziyang},
+  journal   = {Systems \& Control Letters},
+  title     = {Decentralized finite-time sliding mode estimators and their applications in decentralized finite-time formation tracking},
+  year      = {2010},
+  number    = {9},
+  pages     = {522--529},
+  volume    = {59},
+  publisher = {Elsevier},
+}
+
+@InProceedings{Kamble2013,
+  author       = {Kamble, Udayan B and Chandle, Jayalakshmi O and Lahire, VS and Langde, RD},
+  booktitle    = {2013 Fourth International Conference on Computing, Communications and Networking Technologies (ICCCNT)},
+  title        = {Second order twisting sliding mode control of multi-agent network with input disturbance},
+  year         = {2013},
+  organization = {IEEE},
+  pages        = {1--6},
+}
+
+@Article{Li2013,
+  author    = {Li, Huaqing and Liao, Xiaofeng and Chen, Guo},
+  journal   = {International Journal of Control, Automation and Systems},
+  title     = {Leader-following finite-time consensus in second-order multi-agent networks with nonlinear dynamics},
+  year      = {2013},
+  pages     = {422--426},
+  volume    = {11},
+  publisher = {Springer},
+}
+
+@Article{Zhao2014,
+  author    = {Zhao, Li-Wei and Hua, Chang-Chun},
+  journal   = {Nonlinear dynamics},
+  title     = {Finite-time consensus tracking of second-order multi-agent systems via nonsingular TSM},
+  year      = {2014},
+  pages     = {311--318},
+  volume    = {75},
+  publisher = {Springer},
+}
+
+@Article{Yang2015,
+  author    = {Yang, Zi-Jiang and Shibuya, Yoshiyuki and Qin, Pan},
+  journal   = {International Journal of Systems Science},
+  title     = {Distributed robust control for synchronised tracking of networked Euler--Lagrange systems},
+  year      = {2015},
+  number    = {4},
+  pages     = {720--732},
+  volume    = {46},
+  publisher = {Taylor \& Francis},
+}
+
+@Article{Bhat1998,
+  author    = {Bhat, Sanjay P and Bernstein, Dennis S},
+  journal   = {IEEE Transactions on automatic control},
+  title     = {Continuous finite-time stabilization of the translational and rotational double integrators},
+  year      = {1998},
+  number    = {5},
+  pages     = {678--682},
+  volume    = {43},
+  publisher = {IEEE},
+}
+
+@Article{Wang2010,
+  author    = {Wang, Long and Xiao, Feng},
+  journal   = {IEEE Transactions on Automatic Control},
+  title     = {Finite-time consensus problems for networks of dynamic agents},
+  year      = {2010},
+  number    = {4},
+  pages     = {950--955},
+  volume    = {55},
+  publisher = {IEEE},
+}
+
+@Article{Xiao2013,
+  author    = {Xiao, Feng and Wang, Long and Chen, Tongwen},
+  journal   = {IEEE Transactions on Automatic Control},
+  title     = {Finite-time consensus in networks of integrator-like dynamic agents with directional link failure},
+  year      = {2013},
+  number    = {3},
+  pages     = {756--762},
+  volume    = {59},
+  publisher = {IEEE},
+}
+
+@Article{Cao2014,
+  author    = {Cao, Yongcan and Ren, Wei},
+  journal   = {Automatica},
+  title     = {Finite-time consensus for multi-agent networks with unknown inherent nonlinear dynamics},
+  year      = {2014},
+  number    = {10},
+  pages     = {2648--2656},
+  volume    = {50},
+  publisher = {Elsevier},
+}
+
+@InProceedings{Bhat1997,
+  author       = {Bhat, Sanjay P and Bernstein, Dennis S},
+  booktitle    = {Proceedings of the 1997 American control conference (Cat. No. 97CH36041)},
+  title        = {Finite-time stability of homogeneous systems},
+  year         = {1997},
+  organization = {IEEE},
+  pages        = {2513--2514},
+  volume       = {4},
+}
+
+@Article{Hong2001,
+  author    = {Hong, Yigwruang and Huang, Jie and Xu, Yangsheng},
+  journal   = {IEEE Transactions on Automatic Control},
+  title     = {On an output feedback finite-time stabilization problem},
+  year      = {2001},
+  number    = {2},
+  pages     = {305--309},
+  volume    = {46},
+  publisher = {IEEE},
+}
+
+@Article{Hong2002,
+  author    = {Hong, Yiguang},
+  journal   = {Systems \& control letters},
+  title     = {Finite-time stabilization and stabilizability of a class of controllable systems},
+  year      = {2002},
+  number    = {4},
+  pages     = {231--236},
+  volume    = {46},
+  publisher = {Elsevier},
+}
+
+@Article{Hong2006,
+  author    = {Hong, Yiguang and Jiang, Zhong-Ping},
+  journal   = {IEEE Transactions on Automatic Control},
+  title     = {Finite-time stabilization of nonlinear systems with parametric and dynamic uncertainties},
+  year      = {2006},
+  number    = {12},
+  pages     = {1950--1956},
+  volume    = {51},
+  publisher = {IEEE},
+}
+
+@Article{Hui2008,
+  author    = {Hui, Qing and Haddad, Wassim M and Bhat, Sanjay P},
+  journal   = {IEEE Transactions on Automatic Control},
+  title     = {Finite-time semistability and consensus for nonlinear dynamical networks},
+  year      = {2008},
+  number    = {8},
+  pages     = {1887--1900},
+  volume    = {53},
+  publisher = {IEEE},
+}
+
+@Article{Du2014,
+  author    = {Du, Haibo and He, Yigang and Cheng, Yingying},
+  journal   = {IEEE Transactions on Circuits and Systems I: Regular Papers},
+  title     = {Finite-time synchronization of a class of second-order nonlinear multi-agent systems using output feedback control},
+  year      = {2014},
+  number    = {6},
+  pages     = {1778--1788},
+  volume    = {61},
+  publisher = {IEEE},
+}
+
+@Article{Zhang2013a,
+  author    = {Zhang, Yanjiao and Yang, Ying},
+  journal   = {Physics letters A},
+  title     = {Finite-time consensus of second-order leader-following multi-agent systems without velocity measurements},
+  year      = {2013},
+  number    = {3-4},
+  pages     = {243--249},
+  volume    = {377},
+  publisher = {Elsevier},
+}
+
+@Article{Guan2012,
+  author    = {Guan, Zhi-Hong and Sun, Feng-Lan and Wang, Yan-Wu and Li, Tao},
+  journal   = {IEEE Transactions on Circuits and Systems I: Regular Papers},
+  title     = {Finite-time consensus for leader-following second-order multi-agent networks},
+  year      = {2012},
+  number    = {11},
+  pages     = {2646--2654},
+  volume    = {59},
+  publisher = {IEEE},
+}
+
+@Article{Lu2012,
+  author    = {Lu, Xiaoqing and Lu, Renquan and Chen, Shihua and Lu, Jinhu},
+  journal   = {IEEE Transactions on Circuits and Systems I: Regular Papers},
+  title     = {Finite-time distributed tracking control for multi-agent systems with a virtual leader},
+  year      = {2012},
+  number    = {2},
+  pages     = {352--362},
+  volume    = {60},
+  publisher = {IEEE},
+}
+
+@Article{Zhao2015,
+  author    = {Zhao, Yu and Duan, Zhisheng and Wen, Guanghui},
+  journal   = {International Journal of Robust and Nonlinear Control},
+  title     = {Distributed finite-time tracking of multiple Euler--Lagrange systems without velocity measurements},
+  year      = {2015},
+  number    = {11},
+  pages     = {1688--1703},
+  volume    = {25},
+  publisher = {Wiley Online Library},
+}
+
+@Article{Li2013a,
+  author    = {Li, Shihua and Wang, Xiangyu},
+  journal   = {Automatica},
+  title     = {Finite-time consensus and collision avoidance control algorithms for multiple AUVs},
+  year      = {2013},
+  number    = {11},
+  pages     = {3359--3367},
+  volume    = {49},
+  publisher = {Elsevier},
+}
+
+@Article{Lu2013,
+  author    = {Lu, Xiaoqing and Chen, Shihua and L{\"u}, Jinhu},
+  journal   = {IET Control Theory \& Applications},
+  title     = {Finite-time tracking for double-integrator multi-agent systems with bounded control input},
+  year      = {2013},
+  number    = {11},
+  pages     = {1562--1573},
+  volume    = {7},
+  publisher = {Wiley Online Library},
+}
+
+@Article{Zhang2014,
+  author    = {Zhang, Bin and Jia, Yingmin and Matsuno, Fumitoshi},
+  journal   = {Systems \& Control Letters},
+  title     = {Finite-time observers for multi-agent systems without velocity measurements and with input saturations},
+  year      = {2014},
+  pages     = {86--94},
+  volume    = {68},
+  publisher = {Elsevier},
+}
+
+@Article{Yu2013,
+  author    = {Yu, Hui and Shen, Yanjun and Xia, Xiaohua},
+  journal   = {Systems \& Control Letters},
+  title     = {Adaptive finite-time consensus in multi-agent networks},
+  year      = {2013},
+  number    = {10},
+  pages     = {880--889},
+  volume    = {62},
+  publisher = {Elsevier},
+}
+
+﻿
+@Article{He2019,
+  author                     = {He, Shude and Wang, Min and Dai, Shi-Lu and Luo, Fei},
+  journal                    = {IEEE TRANSACTIONS ON INDUSTRIAL INFORMATICS},
+  title                      = {Leader-Follower Formation Control of USVs With Prescribed Performance and Collision Avoidance},
+  year                       = {2019},
+  issn                       = {1551-3203},
+  month                      = {JAN},
+  number                     = {1},
+  pages                      = {572-581},
+  volume                     = {15},
+  abstract                   = {This paper addresses a decentralized leader-follower formation control
+   problem for a group of fully actuated unmanned surface vehicles with
+   prescribed performance and collision avoidance. The vehicles are subject
+   to time-varying external disturbances, and the vehicle dynamics include
+   both parametric uncertainties and uncertain nonlinear functions. The
+   control objective is to make each vehicle follow its reference
+   trajectory and avoid collision between each vehicle and its leader. We
+   consider prescribed performance constraints, including transient and
+   steady-state performance constraints, on formation tracking errors. In
+   the kinematic design, we introduce the dynamic surface control technique
+   to avoid the use of vehicle's acceleration. To compensate for the
+   uncertainties and disturbances, we apply an adaptive control technique
+   to estimate the uncertain parameters including the upper bounds of the
+   disturbances and present neural network approximators to estimate
+   uncertain nonlinear dynamics. Consequently, we design a decentralized
+   adaptive formation controller that ensures uniformly ultimate
+   boundedness of the closed-loop system with prescribed performance and
+   avoids collision between each vehicle and its leader. Simulation results
+   illustrate the effectiveness of the decentralized formation controller.},
+  address                    = {445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA},
+  affiliation                = {Wang, M (Corresponding Author), South China Univ Technol, Sch Automat Sci \& Engn, Guangzhou 510641, Guangdong, Peoples R China. He, Shude; Wang, Min; Dai, Shi-Lu; Luo, Fei, South China Univ Technol, Sch Automat Sci \& Engn, Guangzhou 510641, Guangdong, Peoples R China.},
+  affiliations               = {South China University of Technology},
+  author-email               = {shude\_he@163.com auwangmin@scut.edu.cn audaisl@scut.edu.cn aufeiluo@scut.edu.cn},
+  da                         = {2023-04-27},
+  doc-delivery-number        = {HH4WK},
+  doi                        = {10.1109/TII.2018.2839739},
+  eissn                      = {1941-0050},
+  esi-highly-cited-paper     = {Y},
+  esi-hot-paper              = {N},
+  funding-acknowledgement    = {National Natural Science Foundation of China {[}61773169, 61473121, 61611130214]; Guangdong Natural Science Foundation {[}2017A030313369, 2017A030313381]; Science and Technology Planning Project of Guangdong Province {[}2017B010117007, 2017B090910011]; Fundamental Research Funds for the Central Universities {[}TII-17-2026]},
+  funding-text               = {This work was supported in part by the National Natural Science Foundation of China under Grant 61773169, Grant 61473121, and Grant 61611130214, in part by the Guangdong Natural Science Foundation under Grant 2017A030313369 and Grant 2017A030313381, in part by the Science and Technology Planning Project of Guangdong Province under Grant 2017B010117007 and Grant 2017B090910011, and in part by the Fundamental Research Funds for the Central Universities. Paper no. TII-17-2026.},
+  journal-iso                = {IEEE Trans. Ind. Inform.},
+  keywords                   = {Collision avoidance; formation control; prescribed performance; unmanned surface vehicles (USVs)},
+  keywords-plus              = {NONLINEAR MULTIAGENT SYSTEMS; DYNAMIC SURFACE CONTROL; NEURAL-NETWORK CONTROL; PARAMETER-ESTIMATION; LEARNING CONTROL; CONSENSUS; SHIP},
+  language                   = {English},
+  number-of-cited-references = {45},
+  orcid-numbers              = {He, Shude/0000-0002-3511-0600},
+  publisher                  = {IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC},
+  research-areas             = {Automation \& Control Systems; Computer Science; Engineering},
+  researcherid-numbers       = {He, Shude/AAH-8511-2019},
+  times-cited                = {212},
+  type                       = {Article},
+  unique-id                  = {WOS:000455726700055},
+  usage-count-last-180-days  = {54},
+  usage-count-since-2013     = {328},
+  web-of-science-categories  = {Automation \& Control Systems; Computer Science, Interdisciplinary Applications; Engineering, Industrial},
+  web-of-science-index       = {Science Citation Index Expanded (SCI-EXPANDED)},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}

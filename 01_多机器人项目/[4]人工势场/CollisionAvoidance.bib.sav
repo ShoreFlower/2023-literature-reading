@@ -1,0 +1,175 @@
+﻿
+@Article{WOS:000536299200017,
+  author               = {Peng, Zhouhua and Wang, Dan and Li, Tieshan and Han, Min},
+  journal              = {IEEE TRANSACTIONS ON CYBERNETICS},
+  title                = {Output-Feedback Cooperative Formation Maneuvering of Autonomous Surface Vehicles With Connectivity Preservation and Collision Avoidance},
+  year                 = {2020},
+  issn                 = {2168-2267},
+  month                = {JUN},
+  number               = {6},
+  pages                = {2527-2535},
+  volume               = {50},
+  doi                  = {10.1109/TCYB.2019.2914717},
+  eissn                = {2168-2275},
+  orcid-numbers        = {Wang, Dan/0000-0002-4099-6004 Li, Tieshan/0000-0003-0474-953X},
+  researcherid-numbers = {Wang, Dan/C-3036-2008 Li, Tieshan/E-6885-2015},
+  unique-id            = {WOS:000536299200017},
+}
+
+﻿
+@Article{Wang2012,
+  author                     = {Wang, Li and Sun, Shiwen and Xia, Chengyi},
+  journal                    = {NONLINEAR DYNAMICS},
+  title                      = {Finite-time stability of multi-agent system in disturbed environment},
+  year                       = {2012},
+  issn                       = {0924-090X},
+  month                      = {FEB},
+  number                     = {3},
+  pages                      = {2009-2016},
+  volume                     = {67},
+  abstract                   = {Finite-time stability problem of multi-agent system in disturbed
+   environment is a question with practical significance. In this paper, a
+   multi-agent system moving with obstacle avoidance is studied. The
+   multi-agent system is expected to form a desired formation in finite
+   time. Finite-time control law for continuous multi-agent system is
+   proposed, which ensures that all the agents can pass the obstacles on
+   their way, and the relative position between two agents reaches a
+   constant value in finite time. Based on some notations and proposition
+   given in the paper, the stability analysis is presented. Finally some
+   simulations are presented to show the effectiveness of the method.},
+  address                    = {VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS},
+  affiliation                = {Xia, CY (Corresponding Author), Tianjin Univ Technol, Tianjin Key Lab Intelligence Comp \& Novel Softwar, Tianjin 300191, Peoples R China. Wang, Li; Sun, Shiwen; Xia, Chengyi, Tianjin Univ Technol, Tianjin Key Lab Intelligence Comp \& Novel Softwar, Tianjin 300191, Peoples R China. Wang, Li; Sun, Shiwen, Tianjin Univ Technol, Sch Comp \& Commun Engn, Tianjin 300191, Peoples R China.},
+  affiliations               = {Tianjin University of Technology; Tianjin University of Technology},
+  author-email               = {wltjut08@126.com xialooking@163.com},
+  da                         = {2023-04-26},
+  doc-delivery-number        = {876CW},
+  doi                        = {10.1007/s11071-011-0125-0},
+  eissn                      = {1573-269X},
+  funding-acknowledgement    = {National Nature Science Foundation of P.R. China {[}60904063]; Tianjin Municipal Natural Science Foundation {[}11JCYBJC06600]; Development Fund of Science and Technology for the Higher Education in Tianjin {[}20090717, 20090811, 20090813]; China Postdoctoral Science Foundation {[}20090460694]; National Creative Experiment Project for Undergraduates {[}101006019]; Breeding Foundation of Scientific Research for Young Teacher of Tianjin University of Technology {[}LGYM200913]},
+  funding-text               = {The authors would like to thank the anonymous reviewers for their helpful revision comments. This work was supported by the National Nature Science Foundation of P.R. China (No. 60904063), Tianjin Municipal Natural Science Foundation (No. 11JCYBJC06600), the Development Fund of Science and Technology for the Higher Education in Tianjin (Nos. 20090717, 20090811, 20090813), China Postdoctoral Science Foundation (No. 20090460694), the National Creative Experiment Project for Undergraduates (No. 101006019), Breeding Foundation of Scientific Research for Young Teacher of Tianjin University of Technology (No. LGYM200913).},
+  journal-iso                = {Nonlinear Dyn.},
+  keywords                   = {Multi-agent system; Finite time stability; Disturbed environment; Formation; Obstacle avoidance},
+  keywords-plus              = {OBSTACLE AVOIDANCE; STABILIZATION; COORDINATION; CONVERGENCE; FLOCKING; NETWORKS; VEHICLES; AGENTS},
+  language                   = {English},
+  number-of-cited-references = {23},
+  orcid-numbers              = {Xia, Chengyi/0000-0003-2686-5072},
+  publisher                  = {SPRINGER},
+  research-areas             = {Engineering; Mechanics},
+  researcherid-numbers       = {Xia, Chengyi/A-2752-2012},
+  times-cited                = {30},
+  type                       = {Article},
+  unique-id                  = {WOS:000299085800026},
+  usage-count-last-180-days  = {4},
+  usage-count-since-2013     = {39},
+  web-of-science-categories  = {Engineering, Mechanical; Mechanics},
+  web-of-science-index       = {Science Citation Index Expanded (SCI-EXPANDED)},
+}
+
+﻿
+@Article{Liu2022,
+  author                     = {Liu, Bojian and Li, Aijun and Guo, Yong and Wang, Changqing},
+  journal                    = {AEROSPACE SCIENCE AND TECHNOLOGY},
+  title                      = {Adaptive distributed finite-time formation control for multi-UAVs under input saturation without collisions},
+  year                       = {2022},
+  issn                       = {1270-9638},
+  month                      = {JAN},
+  volume                     = {120},
+  abstract                   = {This paper devotes to addressing the adaptive distributed finite-time
+   formation control problem for multi-UAVs with collision avoidance and
+   input saturation. By combining the formation reconstruction algorithm
+   designed in this paper, the novel adaptive finite-time control law that
+   utilizes the nonlinear mapping technology and prescribed performance
+   control can limit the UAVs in the specified region to avoid collisions
+   between each other. Moreover, an improved auxiliary dynamic system
+   governed by hyperbolic functions is constructed to address the input
+   saturation problem, while promoting to achieve the finite-time
+   convergence of tracking errors. Finally, the convergence of the error
+   systems and the practicability of the control law are verified by
+   Lyapunov stability analysis and numerical simulations. (C) 2021 Elsevier
+   Masson SAS. All rights reserved.},
+  address                    = {65 RUE CAMILLE DESMOULINS, CS50083, 92442 ISSY-LES-MOULINEAUX, FRANCE},
+  affiliation                = {Guo, Y (Corresponding Author), Northwestern Polytech Univ, Sch Automat, Xian 710072, Peoples R China. Liu, Bojian; Li, Aijun; Guo, Yong; Wang, Changqing, Northwestern Polytech Univ, Sch Automat, Xian 710072, Peoples R China.},
+  affiliations               = {Northwestern Polytechnical University},
+  article-number             = {107252},
+  author-email               = {guoyong@nwpu.edu.cn},
+  da                         = {2023-04-26},
+  doc-delivery-number        = {1A1PI},
+  doi                        = {10.1016/j.ast.2021.107252},
+  eissn                      = {1626-3219},
+  funding-acknowledgement    = {National Natural Science Foundation of China {[}61803307, 62111530051]; Aeronautical Science Foundation of China {[}201901053004]; Natural Science Basic Research Plan in Shaanxi Province of China {[}2020JQ-209]; China Postdoctoral Science Foundation {[}2020M683565]; Fundamental Research Funds for the Central Universities {[}3102020ZDHKY05]},
+  funding-text               = {This study was supported by the National Natural Science Foundation of China (No. 61803307, 62111530051), Aeronautical Science Foundation of China (No. 201901053004), Natural Science Basic Research Plan in Shaanxi Province of China (No. 2020JQ-209), China Postdoctoral Science Foundation (No. 2020M683565), and the Fundamental Research Funds for the Central Universities (No. 3102020ZDHKY05).},
+  journal-iso                = {Aerosp. Sci. Technol.},
+  keywords                   = {Finite-time control; Collision avoidance; Input saturation; Multi-UAVs; Backstepping control},
+  keywords-plus              = {TOLERANT COOPERATIVE CONTROL; EULER-LAGRANGE SYSTEMS; TRACKING CONTROL; CONSENSUS; VEHICLE; FAULT},
+  language                   = {English},
+  number-of-cited-references = {47},
+  publisher                  = {ELSEVIER FRANCE-EDITIONS SCIENTIFIQUES MEDICALES ELSEVIER},
+  research-areas             = {Engineering},
+  times-cited                = {4},
+  type                       = {Article},
+  unique-id                  = {WOS:000791537000012},
+  usage-count-last-180-days  = {19},
+  usage-count-since-2013     = {34},
+  web-of-science-categories  = {Engineering, Aerospace},
+  web-of-science-index       = {Science Citation Index Expanded (SCI-EXPANDED)},
+}
+
+﻿
+@Article{Shou2022,
+  author                     = {Shou, Yingxin and Xu, Bin and Lu, Haibo and Zhang, Aidong and Mei, Tao},
+  journal                    = {INTERNATIONAL JOURNAL OF ROBUST AND NONLINEAR CONTROL},
+  title                      = {Finite-time formation control and obstacle avoidance of multi-agent system with application},
+  year                       = {2022},
+  issn                       = {1049-8923},
+  month                      = {MAR 25},
+  number                     = {5, SI},
+  pages                      = {2883-2901},
+  volume                     = {32},
+  abstract                   = {The finite-time formation tracking control is investigated for a
+   multi-agent system (MAS) with obstacle avoidance. For the collision and
+   obstacle avoidance problem in the formation process, the artificial
+   potential field is used as the formation planning design, and the
+   virtual structure is adopted to improve the organizational ability of
+   the formation. The trajectory tracking control follows the back-stepping
+   scheme, and the finite-time technique is developed in the control
+   design. Considering the dynamics uncertainty of the agent system, a
+   neural network is applied for estimating and the prediction error-based
+   adaptive law is established to achieve the precise estimation
+   performance. Moreover, the predefined performance function is embedded
+   to satisfy the output constraint. The uniformly ultimate boundedness of
+   the system error signals and the finite-time convergence of the MAS are
+   guaranteed. The simulation study is performed to validate the proposed
+   control for multiple autonomous underwater vehicles system, while the
+   results manifest that the obstacle avoidance with high-precision
+   tracking and formation performance will be achieved under the formation
+   trajectory tracking controller.},
+  address                    = {111 RIVER ST, HOBOKEN 07030-5774, NJ USA},
+  affiliation                = {Xu, B (Corresponding Author), Northwestern Polytech Univ, Sch Automat, Xian 710072, Shaanxi, Peoples R China. Shou, Yingxin; Xu, Bin, Northwestern Polytech Univ, Sch Automat, Xian 710072, Shaanxi, Peoples R China. Shou, Yingxin; Lu, Haibo; Zhang, Aidong; Mei, Tao, Peng Cheng Lab, Shenzhen, Peoples R China.},
+  affiliations               = {Northwestern Polytechnical University; Peng Cheng Laboratory},
+  author-email               = {smileface.binxu@gmail.com},
+  da                         = {2023-04-26},
+  doc-delivery-number        = {ZC3YO},
+  doi                        = {10.1002/rnc.5641},
+  earlyaccessdate            = {JUN 2021},
+  eissn                      = {1099-1239},
+  funding-acknowledgement    = {National Natural Science Foundation of China {[}61933010, 62003180]; Science and Technology on Space Intelligent Control Laboratory {[}HTKJ2020KL502005]},
+  funding-text               = {National Natural Science Foundation of China, Grant/Award Number: 61933010, 62003180; Science and Technology on Space Intelligent Control Laboratory, Grant/Award Number: HTKJ2020KL502005},
+  journal-iso                = {Int. J. Robust Nonlinear Control},
+  keywords                   = {finite-time convergence; formation obstacle avoidance control; multi-agent system; multi-autonomous underwater vehicles system; neural network; predefined performance function},
+  keywords-plus              = {NEURAL-CONTROL},
+  language                   = {English},
+  number-of-cited-references = {35},
+  orcid-numbers              = {Xu, Bin/0000-0001-9115-4686},
+  publisher                  = {WILEY},
+  research-areas             = {Automation \& Control Systems; Engineering; Mathematics},
+  researcherid-numbers       = {Xu, Bin/D-9938-2018},
+  times-cited                = {7},
+  type                       = {Article},
+  unique-id                  = {WOS:000661438700001},
+  usage-count-last-180-days  = {13},
+  usage-count-since-2013     = {66},
+  web-of-science-categories  = {Automation \& Control Systems; Engineering, Electrical \& Electronic; Mathematics, Applied},
+  web-of-science-index       = {Science Citation Index Expanded (SCI-EXPANDED)},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}

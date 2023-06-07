@@ -1,0 +1,48 @@
+﻿
+@Article{Song2023,
+  author                     = {Song, Yongduan and Su, Jie},
+  journal                    = {INTERNATIONAL JOURNAL OF ROBUST AND NONLINEAR CONTROL},
+  title                      = {A unified Lyapunov characterization for finite time control and prescribed time control},
+  year                       = {2023},
+  issn                       = {1049-8923},
+  month                      = {MAR 10},
+  number                     = {4},
+  pages                      = {2930-2949},
+  volume                     = {33},
+  abstract                   = {This work presents a novel approach to unifying finite time control and
+   prescribed time control. The main idea is to establish a new Lyapunov
+   differential inequality that allows finite time and prescribed time
+   stability to be addressed uniformly. It is shown that the derived
+   control algorithm is able to achieve prescribed time convergence with
+   bounded control gain and bounded control action, completely solving for
+   the first time the long-lasting issue of infinite gain associated with
+   current notion of prescribed time control. Numerical simulations also
+   confirmed the effectiveness of the developed approach.},
+  address                    = {111 RIVER ST, HOBOKEN 07030-5774, NJ USA},
+  affiliation                = {Song, YD (Corresponding Author), Chongqing Univ, Sch Automat, Chongqing 400044, Peoples R China. Song, Yongduan; Su, Jie, Chongqing Univ, Sch Automat, Chongqing 400044, Peoples R China. Su, Jie, Star Inst Intelligent Syst SIIS, Chongqing, Peoples R China.},
+  affiliations               = {Chongqing University},
+  author-email               = {ydsong@cqu.edu.cn},
+  da                         = {2023-04-27},
+  doc-delivery-number        = {8N8BK},
+  doi                        = {10.1002/rnc.6544},
+  earlyaccessdate            = {DEC 2022},
+  eissn                      = {1099-1239},
+  funding-acknowledgement    = {National Key Research and Development Program of China {[}2021ZD0201300, 2022YFB4701400/4701401]; National Natural Science Foundation of China {[}61991400, 61991403, 62250710167, 61860206008, 61933012, 62273064]},
+  funding-text               = {National Key Research and Development Program of China, Grant/Award Numbers: 2021ZD0201300, 2022YFB4701400/4701401; National Natural Science Foundation of China, Grant/Award Numbers: 61991400, 61991403, 62250710167, 61860206008, 61933012, 62273064},
+  journal-iso                = {Int. J. Robust Nonlinear Control},
+  keywords                   = {finite time control; nonautonomous nonlinear system; prescribed time control; without infinite gain},
+  keywords-plus              = {NONLINEAR-SYSTEMS; VARYING FEEDBACK; STABILIZATION},
+  language                   = {English},
+  number-of-cited-references = {18},
+  publisher                  = {WILEY},
+  research-areas             = {Automation \& Control Systems; Engineering; Mathematics},
+  times-cited                = {1},
+  type                       = {Article},
+  unique-id                  = {WOS:000900292400001},
+  usage-count-last-180-days  = {27},
+  usage-count-since-2013     = {27},
+  web-of-science-categories  = {Automation \& Control Systems; Engineering, Electrical \& Electronic; Mathematics, Applied},
+  web-of-science-index       = {Science Citation Index Expanded (SCI-EXPANDED)},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}

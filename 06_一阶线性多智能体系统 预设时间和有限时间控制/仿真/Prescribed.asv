@@ -1,0 +1,90 @@
+clc 
+clear
+% m = 1.1;
+% T = 4;
+% t = 0:0.01:25;
+% k0 = 1;
+% k = k0 + (1+m)/T;
+% 
+% figure(1);%
+% for i = 1:length(t)
+%     u(i) = T^(1+m)/(T-t(i))^(1+m);
+% end 
+% x = ones(1,length(t));
+% 
+% ui = -k*u.*x;
+% 
+% 
+% plot(t,ui,'b','LineWidth',0.1);
+% hold on;              %保存图像
+% plot(t,x,'r','LineWidth',0.1);
+% hold on;              %保存图像
+% axis([0 25 -2 2]);
+
+
+
+m = 1.1;
+T = 4;
+t = 0:0.01:25;
+k0 = 1;
+k = k0 + (1+m)/T;
+figure(1);%
+u = T^(1+m)/(T-t)^(1+m);
+x = ones(1,length(t));
+
+ui = -k*u.*x;
+
+
+syms t s
+
+
+laplace(ui)   %拉氏变换
+
+
+
+
+plot(t,ui,'b','LineWidth',0.1);
+hold on;              %保存图像
+plot(t,x,'r','LineWidth',0.1);
+hold on;              %保存图像
+axis([0 25 -2 2]);
+
+
+
+
+
+% axis([0.5 2.5 0.5 2.5]);
+
+% s = tf('s');  
+% G0 = 1/(s*(s+1)*(0.5*s+1));  %原系统开环传函
+% [Kc,pm,wcg,wcp] = margin(G0);  %返回稳态参数
+% Tc = 2 * pi / wcg;   %
+% Kp2 = 0.91 * Kc;   %PID参数值P
+% Ti2 = 16 * Tc;     %PID参数值I
+% Td2 = 0.32 *Tc;    %PID参数值D
+% Gc2 = Kp2 * (1+1/Ti2/s+Td2*s) %校正函数
+% G1 = G0*Gc2          %校正后系统的开环传函
+% Gs = feedback(G1,1); %构造负反馈GS
+% %%
+% %绘制系统阶跃响应曲线
+% %绘制系统bode图
+% %绘制系统根轨迹图
+% figure(1);%绘制阶跃响应
+% step(feedback(G0,1))  %原系统阶跃响应
+% hold on;              %保存图像
+% step(feedback(G0*Gc2,1),t)%校正后系统的阶跃响应
+% title('校正前后系统阶跃响应曲线对比')
+% hold off;
+
+% figure(2);%绘制校正前系统的bode图
+% margin(G0) %绘制原系统Bode图
+% title('校正前系统的Bode图')
+% figure(3);%绘制校正后系统的bode图
+% margin(G1) %绘制新系统Bode图
+% title('校正后系统的Bode图')
+% figure(4);%绘制校正前系统的根轨迹图
+% rlocus(G0) %求取原系统根轨迹
+% title('校正前系统的根轨迹图')
+% figure(5);%绘制校正后系统的根轨迹图
+% rlocus(G1) %求取新系统根轨迹
+% title('校正后系统的根轨迹图')
